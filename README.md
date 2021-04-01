@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+[linkedin](https://linkedin.com/in/joshua-n-schmidt)  
+[website](https://joshuaschmidt.tech)  
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=jschmidtnj&show_icons=true&theme=dark)
+
 <!--
 **jschmidtnj/jschmidtnj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
