@@ -2,7 +2,6 @@
 
 [linkedin](https://linkedin.com/in/joshua-n-schmidt)  
 [website](https://joshuaschmidt.tech)  
-[code search engine - reScribe](https://github.com/rescribe-dev/rescribe)  
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=jschmidtnj&show_icons=true&theme=dark)
 
